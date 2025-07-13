@@ -1,0 +1,15 @@
+D:\ProductManagement\bin\Debug\net9.0\ProductManagement.exe
+D:\ProductManagement\bin\Debug\net9.0\ProductManagement.deps.json
+D:\ProductManagement\bin\Debug\net9.0\ProductManagement.runtimeconfig.json
+D:\ProductManagement\bin\Debug\net9.0\ProductManagement.dll
+D:\ProductManagement\bin\Debug\net9.0\ProductManagement.pdb
+D:\ProductManagement\obj\Debug\net9.0\ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductManagement\obj\Debug\net9.0\ProductManagement.AssemblyInfoInputs.cache
+D:\ProductManagement\obj\Debug\net9.0\ProductManagement.AssemblyInfo.cs
+D:\ProductManagement\obj\Debug\net9.0\ProductManagement.csproj.CoreCompileInputs.cache
+D:\ProductManagement\obj\Debug\net9.0\ProductManagement.sourcelink.json
+D:\ProductManagement\obj\Debug\net9.0\ProductManagement.dll
+D:\ProductManagement\obj\Debug\net9.0\refint\ProductManagement.dll
+D:\ProductManagement\obj\Debug\net9.0\ProductManagement.pdb
+D:\ProductManagement\obj\Debug\net9.0\ProductManagement.genruntimeconfig.cache
+D:\ProductManagement\obj\Debug\net9.0\ref\ProductManagement.dll
